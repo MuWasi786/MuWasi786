@@ -21,8 +21,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="WasiUr-Rehman | LinkedIn" width="22px" src="www.linkedin.com/in/muhammad-ur-rehman-838a36234" />][linkedin]
-[<img align="left" alt="WasiUr-Rehman | Instagram" width="22px" src="https://www.instagram.com/wwwasi.786/" />][instagram]
+<a href="https://www.linkedin.com/in/muhammad-ur-rehman-838a36234" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="margin-right:10px;"/>
+</a>
+
+<a href="https://www.instagram.com/wwwasi.786/" target="_blank">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" style="margin-right:10px;"/>
+</a>
 
 [instagram]: https://www.instagram.com/wwwasi.786/
 [linkedin]: www.linkedin.com/in/muhammad-ur-rehman-838a36234

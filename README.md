@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>React Native Application - NinetyNine</b>
+- <b>Projects with React Native Framework and TypeScript</b>
+  - [NinetyNine - Know Your Lord - Islamic Education App](https://github.com/joshmadakor1/Algorithms-Practice)
   - [React Native With Expo Go Application](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -20,10 +21,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="WasiUr-Rehman | LinkedIn" width="22px" src="www.linkedin.com/in/muhammad-ur-rehman-838a36234" />][linkedin]
+[<img align="left" alt="WasiUr-Rehman | Instagram" width="22px" src="https://www.instagram.com/wwwasi.786/" />][instagram]
 
-[twitter]: 
+[instagram]: https://www.instagram.com/wwwasi.786/
 [linkedin]: www.linkedin.com/in/muhammad-ur-rehman-838a36234

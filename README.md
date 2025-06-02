@@ -1,5 +1,5 @@
 <h1>Hi, I'm Wasi! <br/><a href="https://github.com/MuWasi786/NinetyNine">Programmer</a>, <a href="www.linkedin.com/in/muhammad-ur-rehman-838a36234">Web Developer</a>, <a href="https://nafsiequipment.com/">Entrepreneur</a></h1>
-y
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Projects with React Native Framework and TypeScript</b>

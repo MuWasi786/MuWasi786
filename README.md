@@ -15,7 +15,7 @@
   - [Dream To Design Graphics](https://dream-to-design.jimdosite.com/)
     
 - <b>Co-Founded Businesses</b>
-  - [Nafsi Restaurant Equipment(https://nafsiequipment.com/)
+  - [Nafsi Restaurant Equipment](https://nafsiequipment.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
